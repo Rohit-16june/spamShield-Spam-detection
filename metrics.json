@@ -1,0 +1,26 @@
+{
+  "best_model": "Linear SVM",
+  "results": {
+    "Naive Bayes": {
+      "accuracy": 0.9874,
+      "precision": 0.9609,
+      "recall": 0.9389,
+      "f1": 0.9498
+    },
+    "Logistic Regression": {
+      "accuracy": 0.9865,
+      "precision": 0.9535,
+      "recall": 0.9389,
+      "f1": 0.9462
+    },
+    "Linear SVM": {
+      "accuracy": 0.9884,
+      "precision": 0.9612,
+      "recall": 0.9466,
+      "f1": 0.9538
+    }
+  },
+  "train_size": 4136,
+  "test_size": 1035,
+  "duplicates_removed": 403
+}
